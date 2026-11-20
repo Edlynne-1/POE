@@ -3,6 +3,7 @@
 ## Student Information
 
 **Student Name:** Edlyn Seleke  
+**Student Number:** ST10507517
 **Module:** ICT1511 - Programming  
 **Project:** QuickChat Final PoE  
 **Year:** 2026
